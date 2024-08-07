@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Unic</string>
+
+    <string name="jpg">JPG</string>
+    <string name="png">PNG</string>
+    <string name="webp">WEBP</string>
+    <string name="size">SIZE</string>
+    <string name="conver">Convert</string>
+    <string name="converting">Converting</string>
+    <string name="convert_result">Convert Result</string>
+    <string name="compress">Compress</string>
+    <string name="crop">Crop</string>
+    <string name="rotation">Rotation</string>
+    <string name="quality">Quality</string>
+    <string name="percent">%</string>
+    <string name="kb">KB</string>
+    <string name="compress_image">Compress Image By</string>
+    <string name="photo_converted">Photo Converted</string>
+    <string name="smile">\uD83D\uDE0A</string>
+    <string name="ok">Ok</string>
+    <string name="save">Save</string>
+    <string name="rotation_value">Click to change rotation: %1$s</string>
+    <string name="select_which_want">Select Which You Want \uD83D\uDE0A</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //pay u
+
+    <string name="some_error_occurred">Some error occurred...</string>
+    <string name="transaction_cancelled_by_user">Transaction cancelled by user</string>
+    <string name="pay_via_si">Pay using SI</string>
+    <string name="billingCycle">billingCycle</string>
+    <string name="api_version">api_version</string>
+    <string name="si">si</string>
+    <string name="billingInterval">billingInterval</string>
+    <string name="billingAmount">billingAmount</string>
+    <string name="billingCurrency">billingCurrency</string>
+    <string name="paymentStartDate">paymentStartDate</string>
+    <string name="paymentEndDate">paymentEndDate</string>
+    <string name="remarks">remarks</string>
+    <string name="si_date_hint">YYYY-MM-DD</string>
+    <string name="free_trial">Free Trial</string>
+    <string name="billingRule">billingRule</string>
+    <string name="billingLimit">billingLimit</string>
+    <string name="custom_note">Custom Note</string>
+    <string name="custom_note_category">Note Category</string>
+
+    <string name="split_payment_type">Type</string>
+    <string name="split_payment_amount1">Sub-Merchant Amount</string>
+    <string name="split_payment_commission1">Commission</string>
+    <string name="split_payment_child">Child Key</string>
+
+    <string name="pay_via_split_payment">Pay using Split Payment</string>
+</resources>

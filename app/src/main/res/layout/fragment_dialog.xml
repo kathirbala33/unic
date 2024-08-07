@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+
+<RelativeLayout
+    android:id="@+id/attachmentLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/camera"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_centerVertical="true"
+             android:background="@drawable/ic_camera"
+            android:layout_margin="@dimen/_40sdp"
+            android:text="Convert" />
+
+        <ImageView
+            android:id="@+id/gallery"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_alignParentEnd="true"
+             android:background="@drawable/gallery"
+            android:layout_margin="@dimen/_40sdp"
+            android:text="Convert" />
+</RelativeLayout>
+
+
+
+</RelativeLayout>
